@@ -1,0 +1,20 @@
+# Notebooks
+.ipynb_checkpoints/
+
+# Archivos comprimidos (no subir)
+*.rar
+*.zip
+
+# Entornos y secretos
+.env
+.env.*
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Sistema
+.DS_Store
+Thumbs.db
